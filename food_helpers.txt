@@ -1,0 +1,27 @@
+{
+   "week_number": 4,
+   "index_start": 0,
+   "batch": 4,
+   "active_members": [
+      "Lukasz Nitecki",
+      "Allan Larsen",
+      "Annette Manniche",
+      "Rasmus Bjerngaard",
+      "Høgni á Reynatrøð",
+      "Jytte Müller",
+      "Lau Pop",
+      "Mads Transel",
+      "Nikos Papageorgiou",
+      "Peder Skjalm Lissner",
+      "Pedro Madruga",
+      "Rikke Bach Nielsen",
+      "Rasmus Brosbøl",
+      "Samuel Særkjær",
+      "Christian Schade",
+      "Siiri Nathalie Bruun",
+      "Thomas Angelbo Christensen",
+      "Tanya Holmer",
+      "Tommy Nilsson",
+      "Carina"
+   ]
+}

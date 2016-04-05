@@ -1,0 +1,24 @@
+{
+  "rules": {
+    "no-console": 0,
+    "padded-blocks": [2, "never"],
+    "brace-style": [2, "1tbs", {
+      "allowSingleLine": true
+    }],
+    "prefer-const": 2,
+    "one-var": [2, "never"],
+    "semi-spacing": [2, {
+      "before": false,
+      "after": true
+    }],
+  },
+
+  "env": {
+    "browser": true,
+    "node": true
+  },
+
+  "extends": "eslint:recommended",
+    "parser": "babel-eslint"
+
+}

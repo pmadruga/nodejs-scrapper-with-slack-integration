@@ -1,0 +1,23 @@
+{
+  "name": "colego-lunch",
+  "version": "1.0.0",
+  "description": "getting the lunch for today!",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm install && node server.js"
+  },
+  "keywords": [
+    "colego"
+  ],
+  "author": "pedro",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "moment": "^2.11.0",
+    "sync-request": "^3.0.0",
+    "x-ray": "^2.0.3"
+  },
+  "engines": {
+    "node": "4.1.1"
+  }
+}
